@@ -41,7 +41,7 @@
     "layout-wrapper": "^1.1.0",
     "minimisted": "^1.1.1",
     "minirocket": "^2.0.0",
-    "nunjucks": "^3.0.0"
+    "nunjucks": "^3.0.1"
   },
   "devDependencies": {
     "buble": "^0.15.2"
